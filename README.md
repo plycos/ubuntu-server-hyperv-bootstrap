@@ -32,3 +32,4 @@ required reboot.
 - The scheduled task is automatically cleaned up after the process completes or fails.
 
 ---
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
