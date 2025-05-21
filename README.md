@@ -3,6 +3,8 @@
 This project automates enabling Hyper-V on Windows and sets up a scheduled task to resume the bootstrap process after a
 required reboot.
 
+# Dummy update
+
 ## How It Works
 
 - `bootstrap.ps1` is the main entry point. It checks for administrator rights and runs each step in order.
